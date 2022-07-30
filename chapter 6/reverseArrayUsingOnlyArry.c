@@ -12,7 +12,7 @@ void reverseArray(int *arr, int n){
 }
 
 int main(){
-    int arr[8] = {1,2,3,4,5,6,7,8};
+    int arr[8] = {1,2,3,4,5,6,7};
     reverseArray(arr, 8);
     for(int i=0 ; i<8 ;i++){
         printf("%d Elelment of array is : %d \n", i+1, arr[i]);
