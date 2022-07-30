@@ -26,5 +26,5 @@ void displayGoodEvening(){
     displayGoodnight();
 }
 void displayGoodnight(){
-    printf("Hello, Good Night How are you!\n");
+    printf("Hello, Good  Night How are you!\n");
 }
